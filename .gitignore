@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Streamlit / local tooling
+.streamlit/
+.superpowers/
+.claude/
+
+# Generated customs workbooks and temporary output
+*.xlsx
+*.tmp
+*.tmp.*
+*.temp
+*.temp.*
+~$*
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
